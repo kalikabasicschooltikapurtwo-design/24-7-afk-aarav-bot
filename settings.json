@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BladesmpNet-ZTFJ.aternos.me",
-    "port": 23971,
+    "ip": "mesh2060.aternos.me",
+    "port": 27057,
     "version": "1.20.1",
     "try-creative": false
   },
